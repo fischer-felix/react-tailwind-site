@@ -1,6 +1,10 @@
 {
   "name": "react-site",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.13.1",
+    "npm": "8.1.4"
+  },
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.4.1",

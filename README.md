@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a9aed1e1-bd91-4648-9fea-d2482f9bd4f8/deploy-status)](https://app.netlify.com/sites/react-tailwind-site/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
